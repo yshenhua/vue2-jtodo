@@ -1,7 +1,7 @@
 {
   "name": "vue2-jtodo",
   "version": "1.0.0",
-  "description": "一个简单的tod o应用",
+  "description": "一个简单的todo应用",
   "author": "文燚 <yshenhua@gmail.com>",
   "private": true,
   "scripts": {
